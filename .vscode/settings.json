@@ -1,0 +1,19 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.test.config": {
+    "vmArgs": [
+      "-Dfile.encoding=UTF-8"
+    ]
+  },
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ],
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "files.encoding": "utf8",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true
+  }
+}
